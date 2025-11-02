@@ -12,12 +12,5 @@ Overloaded landfills and open dumping.
 To identify the major  causes of ineffective waste management.
 To analyze the environmental and social impacts of poor waste handling.
 To purpose sustainable solutions for improving waste collection and recycling processes.
-# Cause of the Problem
-Unplanned Urbanization- inadequate  waste collection systems.
-Policy Gaps- weak enforcement of waste management laws.
-Lack of Awareness- people mix biodegradable and non-biodegradable waste.
-# Impacts
-Environmental: Air, water and soil Polution.
-Health:Spread of diseases due to open dumping.
-Economic: Increase cost of cleanup and   reduced tourism.
+
 
