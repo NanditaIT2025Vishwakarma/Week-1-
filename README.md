@@ -16,7 +16,7 @@ To purpose sustainable solutions for improving waste collection and recycling pr
 Unplanned Urbanization- inadequate  waste collection systems.
 Policy Gaps- weak enforcement of waste management laws.
 Lack of Awareness- people mix biodegradable and non-biodegradable waste.
-# impacts
+# Impacts
 Environmental: Air, water and soil Polution.
 Health:Spread of diseases due to open dumping.
 Economic: Increase cost of cleanup and   reduced tourism.
