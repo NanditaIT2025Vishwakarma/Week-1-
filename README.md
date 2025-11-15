@@ -1,6 +1,6 @@
 # Sustainability :Waste-Classification
 
-# LEARNING OVERVEIW
+# LEARNING OVERVIEW
 In this  we develop a Waste Classification  project using AIML. Machine Learning optimizes waste classification through route optimization, automated sorting , predictive analytics for forecasting waste generation, and real-time monitoring of landfills and bins. To develop this project we use Deep Learning  and CNN(Convolution Neural Network).
 # Problem Statement
 "The existing waste classification systems are inefficient and unsustainable, leading to improper waste disposal, environmental pollution, and public health hazards."
